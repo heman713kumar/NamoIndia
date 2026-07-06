@@ -1,0 +1,6 @@
+{
+  "name": "Incredible India Tourism",
+  "description": "An elegant, cinematic multi-page portal for exploring India's 36 states & UTs, rich festivals, experiential activities, and custom trip planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
